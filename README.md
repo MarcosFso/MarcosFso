@@ -36,12 +36,12 @@
 <hr/>
 
 <p align="center">
-  <img src="./profile-summary-card-output/dark/0-profile-details.svg" width="90%" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="90%" />
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/dark/3-stats.svg" width="48%" />
-  <img src="./profile-summary-card-output/dark/4-productive-time.svg" width="48%" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="48%" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="48%" />
 </p>
 
 <hr/>
