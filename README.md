@@ -48,6 +48,7 @@
 <hr/>
 
 <p align="center">
+  <a href="https://marcosfso.github.io/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0F172A?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/marcos-ribeiro-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mfilhofso@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
